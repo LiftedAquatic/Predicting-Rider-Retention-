@@ -1,5 +1,5 @@
 # This project makes use of a mock Uber dataset of rider profiles and ride share stats
-## The goal is to use this data to generate a model that effectively predicts rider rentention
+## The goal is to use this data to generate a model that effectively predicts rider retention
 
 ### Prompt
 Uber is interested in predicting rider retention. To help explore this question, we have provided a sample dataset of a cohort of users who signed up for an Uber account in January 2014. The data was pulled several months later; we consider a user retained if they were “active” (i.e. took a trip) in the preceding 30 days.
